@@ -24,7 +24,7 @@ body{
 
 body,p,a,ul,li{
     color: white;
-    font-family: "Spectral", sans serif;
+    font-family: 'Spectral SC', serif;
 }
 
 /* horizontal rule styling */
